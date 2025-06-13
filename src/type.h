@@ -22,6 +22,7 @@ limitations under the License.
 #include <climits>
 #include <memory>
 #include <vector>
+#include <cstdint>
 #include "options.h"
 
 namespace yarpgen {
