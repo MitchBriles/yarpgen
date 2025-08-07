@@ -22,3 +22,6 @@ scripts/testing/result/**
 build/
 out/
 .DS_Store
+
+v1/
+v2/
